@@ -35,6 +35,7 @@ Presente na bio  ...#viral #fy #explorar #fyp #biscoitando #dancandofunk
 
 LINKS:
 
+CLAUDE: https://claude.ai/new
 PINTEREST: https://br.pinterest.com/ideas (IDEIAS DE POSES)
 GEMINI: https://gemini.google.com/u/5/app (CRIAÇÃO E AJUSTES MODELOS)
 LORAS: https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2509-LoRAs-Fast (NSFW MODELOS)
